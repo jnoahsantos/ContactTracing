@@ -8,3 +8,13 @@ C:\Users\Computer\Desktop\csharp\ContactTracing\ContactTracingApp\obj\Debug\Cont
 C:\Users\Computer\Desktop\csharp\ContactTracing\ContactTracingApp\obj\Debug\ContactTracingApp.csproj.CoreCompileInputs.cache
 C:\Users\Computer\Desktop\csharp\ContactTracing\ContactTracingApp\obj\Debug\ContactTracingApp.exe
 C:\Users\Computer\Desktop\csharp\ContactTracing\ContactTracingApp\obj\Debug\ContactTracingApp.pdb
+C:\Users\Computer\Desktop\csharp\Contact Tracing\ContactTracing\ContactTracingApp\bin\Debug\ContactTracingApp.exe.config
+C:\Users\Computer\Desktop\csharp\Contact Tracing\ContactTracing\ContactTracingApp\bin\Debug\ContactTracingApp.exe
+C:\Users\Computer\Desktop\csharp\Contact Tracing\ContactTracing\ContactTracingApp\bin\Debug\ContactTracingApp.pdb
+C:\Users\Computer\Desktop\csharp\Contact Tracing\ContactTracing\ContactTracingApp\obj\Debug\ContactTracingApp.csproj.AssemblyReference.cache
+C:\Users\Computer\Desktop\csharp\Contact Tracing\ContactTracing\ContactTracingApp\obj\Debug\ContactTracingApp.ContactTracer.resources
+C:\Users\Computer\Desktop\csharp\Contact Tracing\ContactTracing\ContactTracingApp\obj\Debug\ContactTracingApp.Properties.Resources.resources
+C:\Users\Computer\Desktop\csharp\Contact Tracing\ContactTracing\ContactTracingApp\obj\Debug\ContactTracingApp.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\csharp\Contact Tracing\ContactTracing\ContactTracingApp\obj\Debug\ContactTracingApp.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\csharp\Contact Tracing\ContactTracing\ContactTracingApp\obj\Debug\ContactTracingApp.exe
+C:\Users\Computer\Desktop\csharp\Contact Tracing\ContactTracing\ContactTracingApp\obj\Debug\ContactTracingApp.pdb
