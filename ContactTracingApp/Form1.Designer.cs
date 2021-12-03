@@ -29,6 +29,7 @@ namespace ContactTracingApp
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ContactTracer));
             this.txtBxFN = new System.Windows.Forms.TextBox();
             this.txtBxMN = new System.Windows.Forms.TextBox();
             this.txtBxLN = new System.Windows.Forms.TextBox();
@@ -563,6 +564,7 @@ namespace ContactTracingApp
             this.Controls.Add(this.labelAddress);
             this.Controls.Add(this.labelAge);
             this.Controls.Add(this.labelFN);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "ContactTracer";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
