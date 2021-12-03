@@ -502,7 +502,7 @@ namespace ContactTracingApp
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(704, 82);
+            this.panel1.Size = new System.Drawing.Size(698, 82);
             this.panel1.TabIndex = 9;
             // 
             // panel2
@@ -512,7 +512,7 @@ namespace ContactTracingApp
             this.panel2.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panel2.Location = new System.Drawing.Point(0, 592);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(704, 60);
+            this.panel2.Size = new System.Drawing.Size(698, 60);
             this.panel2.TabIndex = 10;
             // 
             // SubmitButton
@@ -520,7 +520,7 @@ namespace ContactTracingApp
             this.SubmitButton.BackColor = System.Drawing.Color.DeepPink;
             this.SubmitButton.FlatAppearance.BorderSize = 0;
             this.SubmitButton.Font = new System.Drawing.Font("Cooper Black", 15F);
-            this.SubmitButton.Location = new System.Drawing.Point(258, 7);
+            this.SubmitButton.Location = new System.Drawing.Point(265, 0);
             this.SubmitButton.Name = "SubmitButton";
             this.SubmitButton.Size = new System.Drawing.Size(169, 47);
             this.SubmitButton.TabIndex = 5;
@@ -533,7 +533,7 @@ namespace ContactTracingApp
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.PaleVioletRed;
-            this.ClientSize = new System.Drawing.Size(704, 652);
+            this.ClientSize = new System.Drawing.Size(698, 652);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.labelFocusGetter);
